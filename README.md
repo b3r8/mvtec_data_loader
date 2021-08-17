@@ -9,9 +9,13 @@ The MVTEC dataset is available at: https://www.mvtec.com/company/research/datase
 ## How to use it
 
 The 'mvtecDataset.py' file and the mvtec data directory must be in the same directory, such that:
+
 /.../your_directory/mvtecDataset.py
+
 /.../your_directory/mvtec/bottle/...
+
 /.../your_directory/mvtec/cable/...
+
 and so on
 
 The images in the dataset are high resolution, so you can resize them with the 'resize' option. For more details, please see the example provided (notebook)
